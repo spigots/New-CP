@@ -14,6 +14,7 @@
 	</div><!-- #user_box -->
 
 	<ul id="accordion">
+		<form id="search_side"><input class="round_all" type="text" value="Quick Search..." onclick="value=''"></form>
 		<li><a href="index.php" class="top_level"><img src="images/icons/small/grey/Home.png"/>Home</a>
 			<ul class="drawer">
 				<li><a href="#">Activity</a></li>
@@ -43,7 +44,7 @@
 				<li><a href="#">Search Profiles</a></li>
 			</ul>
 		</li>
-		<li><a href="#" onClick="parent.location='http://www.tricycle.ie'" class="top_level"><img src="images/icons/small/grey/Graph.png"/>Statistics</a></li>
+		<li><a href="#" class="top_level"><img src="images/icons/small/grey/Graph.png"/>Statistics</a></li>
 		<li><a href="#" class="top_level"><img src="images/icons/small/grey/Cog%202.png"/>Settings</a>
 			<ul class="drawer">
 				<li><a href="#">Account</a></li>
@@ -51,7 +52,6 @@
 			</ul>
 		</li>
 	</ul>
-	<form id="search_side"><input class="round_all" type="text" value="Search Adminica..." onclick="value=''"></form>
 	<ul id="side_links" class="text_shadow" >
 		<li><a href="http://www.tricycle.ie/adminica/index.php/docs/">Online Documentation</a>
 		<li><a href="#">Expert Forum</a></li>
