@@ -16,8 +16,15 @@
 				</div>	
 				<div class="flat_area grid_10">
 					<h2>Gustafason Roofing</h2>
-					<p><button class="skin_colour round_all"><img src="images/icons/small/white/Globe%202.png" height="24"><span>Maps listing: Boise, ID</span></button>
-					<button class="red skin_colour round_all"><img src="images/icons/small/white/Firefox.png" height="24"><span>Website: gustafason.com</span></button>
+					<p>
+					<button class="orange skin_colour round_all clearfix"><img src="images/icons/small/white/Pacman.png" height="24"><span>Extended Marketing</span></button>
+					<button class="skin_colour round_all clearfix"><img src="images/icons/small/white/Globe%202.png" height="24"><span>Maps listing: Boise, ID</span></button>
+					<button class="skin_colour round_all clearfix"><img src="images/icons/small/white/Globe%202.png" height="24"><span>Maps listing: Boise, ID</span></button>
+					<button class="skin_colour round_all clearfix"><img src="images/icons/small/white/Globe%202.png" height="24"><span>Maps listing: Boise, ID</span></button>
+					<button class="skin_colour round_all clearfix"><img src="images/icons/small/white/Globe%202.png" height="24"><span>Maps listing: Boise, ID</span></button>
+					<button class="skin_colour round_all clearfix"><img src="images/icons/small/white/Globe%202.png" height="24"><span>Maps listing: Boise, ID</span></button>
+					<button class="skin_colour round_all clearfix"><img src="images/icons/small/white/Globe%202.png" height="24"><span>Maps listing: Boise, ID</span></button>
+					<button class="red skin_colour round_all clearfix"><img src="images/icons/small/white/Firefox.png" height="24"><span>Website: gustafason.com</span></button>
 					</p>
 				</div>				
 			</div>
