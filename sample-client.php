@@ -36,13 +36,13 @@
 				<div class="flat_area grid_16" style="clear:left;">
 				
 				<h2>Notes</h2>					
-				<div class="clearfix indent container_16">		
+				<div class="clearfix indent">		
 					<strong>A NOET</strong>
 				</div>
-				<div class="clearfix indent container_16">		
+				<div class="clearfix indent">		
 					<strong>A NOET</strong>
 				</div>
-				<div class="clearfix indent container_16">		
+				<div class="clearfix indent">		
 					<strong>A NOET</strong>
 				</div>
 				</div>								
