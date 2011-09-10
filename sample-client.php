@@ -3,7 +3,13 @@
 			<?php include 'includes/topbar.php'?>		
 			<?php include 'includes/sidebar.php'?>
 			<div class="main_container container_16 clearfix">
-				<?php include 'includes/navigation.php'?>	
+				<?php include 'includes/navigation.php'?>
+				<div class="box grid_6">
+					<div class="block">
+						<h1>Primary Heading</h1>
+						<p>Lorem Ipsum is simply dummy text of the printing industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p> 		
+					</div>
+				</div>	
 				<div class="flat_area grid_10">
 					<h2>Welcome to <strong>Adminica</strong></h2>
 					<p><strong>Adminica</strong> is a <strong>cleanly coded</strong>, <strong>beautifully styled</strong>, easily <strong>customisable</strong>, <strong>cross-browser</strong> compatible <strong>Web Application Interface</strong>.</p>
