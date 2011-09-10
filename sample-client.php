@@ -4,50 +4,6 @@
 			<?php include 'includes/sidebar.php'?>
 			<div class="main_container container_16 clearfix">
 				<?php include 'includes/navigation.php'?>	
-				<div class="box grid_6 round_all tabs">
-					<ul class="tab_header grad_colour clearfix">
-						<li>
-							<a href="#tabs-1">Layout</a>
-						</li>
-						<li>
-							<a href="#tabs-2" class="round_top">Tricycle</a>
-						</li>
-					</ul>
-					<a href="#" class="grabber">&nbsp;</a>
-					<a href="#" class="toggle">&nbsp;</a>
-					<div class="toggle_container">
-						<div id="tabs-1" class="block no_padding">
-							<ul class="full_width">
-								<li>Toggle <a href="{site_url}css/theme/switcher1.php?style=../layout_fixed.css">Fixed</a> and <a href="css/theme/switcher1.php?style=switcher.css">Fluid</a> width layout</li>
-								<li><a href="{site_url}css/theme/switcher2.php?style=switcher.css">Sidebar</a> or <a href="css/theme/switcher2.php?style=../layout_top.css">Full Width</a></li>								
-								<li class="theme_colour round_all">
-									<a class="black" href="css/theme/switcher3.php?style=switcher.css">
-										<span>Black</span></a>
-									<a class="blue" href="css/theme/switcher3.php?style=theme_blue.css">
-										<span>Blue</span></a>
-									<a class="navy" href="css/theme/switcher3.php?style=theme_navy.css">
-										<span>Navy</span></a>
-									<a class="red" href="css/theme/switcher3.php?style=theme_red.css">
-										<span>Red</span></a>
-									<a class="green" href="css/theme/switcher3.php?style=theme_green.css">
-										<span>Green</span></a>
-									<a class="magenta" href="css/theme/switcher3.php?style=theme_magenta.css">
-										<span>Magenta</span></a>
-									<a class="orange" href="css/theme/switcher3.php?style=theme_brown.css">
-										<span>Brown</span></a>
-								</li>
-								<li><a href="css/theme/switcher2.php?style=../header_slideout.css">New Slide Menu!</a> Check it out.</li>
-							</ul>
-						</div>
-						<div id="tabs-2" class="block">
-							<div class="content">
-								<p><strong>Adminica</strong> was created by <a href="http://www.tricycle.ie" target="_blank">Tricycle Interactive</a>. Please visit our site and have a look around - <a href="http://www.tricycle.ie" target="_blank">www.tricycle.ie</a></p>
-								<p>If you need special customization to the theme, please email <strong>themeforest@tricycle.ie</strong>.
-							</div>
-						</div>
-					</div>
-				</div>		
-				
 				<div class="flat_area grid_10">
 					<h2>Welcome to <strong>Adminica</strong></h2>
 					<p><strong>Adminica</strong> is a <strong>cleanly coded</strong>, <strong>beautifully styled</strong>, easily <strong>customisable</strong>, <strong>cross-browser</strong> compatible <strong>Web Application Interface</strong>.</p>
