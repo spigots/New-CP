@@ -4,7 +4,7 @@
 			<?php include 'includes/sidebar.php'?>
 			<div class="main_container container_16 clearfix">
 				<?php include 'includes/navigation.php'?>
-				<div class="box grid_6">
+				<div class="box grid_10">
 					<div class="block">
 						<ul class="full_width">
 							<li><span>Client from:</span> 3/28/2008</li>
@@ -14,8 +14,8 @@
 						</ul>
 					</div>
 				</div>	
-				<div class="flat_area grid_10">
-					<h2>Welcome to <strong>Adminica</strong></h2>
+				<div class="flat_area grid_6">
+					<h2>Gustafason Roofing</h2>
 					<p><strong>Adminica</strong> is a <strong>cleanly coded</strong>, <strong>beautifully styled</strong>, easily <strong>customisable</strong>, <strong>cross-browser</strong> compatible <strong>Web Application Interface</strong>.</p>
 
 					<p><strong>Adminica</strong> is packed full of features, allowing you<strong> unlimited combinations</strong> of layouts, controls and styles to ensure you have a <strong>trully unique app</strong>. </p>
