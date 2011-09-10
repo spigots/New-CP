@@ -16,7 +16,9 @@
 				</div>	
 				<div class="flat_area grid_10">
 					<h2>Gustafason Roofing</h2>
-					<p><button class="skin_colour round_all"><img src="images/icons/small/white/Globe%202.png" width="24" height="24" alt="Globe 2"><span>Maps listing: Boise, ID</span></button></p>
+					<p><button class="skin_colour round_all"><img src="images/icons/small/white/Globe%202.png" height="24"><span>Maps listing: Boise, ID</span></button>
+					<button class="red skin_colour round_all"><img src="images/icons/small/white/Firefox.png" height="24"><span>Website: gustafason.com</span></button>
+					</p>
 				</div>				
 			</div>
 			
