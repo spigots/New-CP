@@ -36,8 +36,10 @@
 				<div class="flat_area grid_16" style="clear:left;">
 				
 				<h2>Notes</h2>					
-				<div class="clearfix indent">		
-					<p>WHAT O</p>
+				<div class="clearfix indent">
+					<div class="flat_area grid_16">		
+						<p>WHAT O</p>
+					</div>
 				</div>
 				<div class="clearfix indent">		
 					<strong>A NOET</strong>
