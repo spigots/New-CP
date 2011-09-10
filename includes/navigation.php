@@ -1,25 +1,7 @@
 <div id="nav_top" class="clearfix  round_top">
 	<ul class="clearfix">
 		<li class="current"><a href="dashboard_sorter.php"><img src="images/icons/small/white/Laptop.png"/>Dashboard</a></li>
-	
-		<li><a href="#"><img src="images/icons/small/grey/Frames.png"/>Layout</a>
-			<ul class="dropdown">
-				<li><a href="layout.php">16 Grid - 960.gs</a></li>
-				<li><a href="text.php">Text & Typography</a></li>
-				<li><a class="has_slide" href="#">Layout Width</a>
-					<ul class="slideout">						
-						<li><a href="css/theme/switcher1.php?style=../layout_fixed.css">Fixed</a></li>
-						<li><a href="css/theme/switcher1.php?style=switcher.css">Fluid</a></li>
-					</ul>
-				</li>
-				<li><a class="has_slide" href="#">Layout Position</a>
-					<ul class="slideout">
-						<li><a href="css/theme/switcher2.php?style=switcher.css">Side</a></li>
-						<li><a href="css/theme/switcher2.php?style=../layout_top.css">Top</a></li>
-					</ul>
-				</li>
-			</ul>
-		</li>
+		<li><a href="clients.php"><img src="images/icons/small/white/Users.png"/>Clients</a></li>
 		<li><a href="#"><img src="images/icons/small/grey/Coverflow.png"/>Boxes</a>
 			<ul class="dropdown">
 				<li><a class="has_slide" href="#">Tab Boxes</a>
