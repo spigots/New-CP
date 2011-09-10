@@ -4,7 +4,7 @@
 			<?php include 'includes/sidebar.php'?>
 			<div class="main_container container_16 clearfix">
 				<?php include 'includes/navigation.php'?>
-				<div class="box grid_10">
+				<div class="box grid_6">
 					<div class="block">
 						<ul class="full_width">
 							<li><span>Signed up:</span> 3/28/2008</li>
@@ -14,7 +14,7 @@
 						</ul>
 					</div>
 				</div>	
-				<div class="flat_area grid_6">
+				<div class="flat_area grid_10">
 					<h2>Gustafason Roofing</h2>
 					<p><strong>Adminica</strong> is a <strong>cleanly coded</strong>, <strong>beautifully styled</strong>, easily <strong>customisable</strong>, <strong>cross-browser</strong> compatible <strong>Web Application Interface</strong>.</p>
 
