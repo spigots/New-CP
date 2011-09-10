@@ -33,6 +33,8 @@
 			</div>
 			
 			<div class="main_container container_16 clearfix">
+				<div class="flat_area grid_16" style="clear:left;">
+				
 				<h2>Boise, ID Listing</h2>					
 						
 					<form id="filter" class="clearfix indent gallery_sorter">
@@ -49,6 +51,7 @@
 						</fieldset>
 					</form>
 					THANGS
+				</div>
 			</div>
 			<div class="main_container container_16 clearfix">
 				<div class="flat_area grid_16">
