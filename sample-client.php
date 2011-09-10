@@ -17,8 +17,8 @@
 				<div class="flat_area grid_10">
 					<h2>Gustafason Roofing</h2>
 					<p>
-					<button class="float: left; orange skin_colour round_all clearfix"><img src="images/icons/small/white/Pacman.png" height="24"><span>Extended Marketing</span></button>
-					<button class="float: right; skin_colour round_all clearfix"><img src="images/icons/small/white/Globe%202.png" height="24"><span>Maps listing: Boise, ID</span></button>
+					<button style="float: left;" class="orange skin_colour round_all clearfix"><img src="images/icons/small/white/Pacman.png" height="24"><span>Extended Marketing</span></button>
+					<button style="float: right;" class="skin_colour round_all clearfix"><img src="images/icons/small/white/Globe%202.png" height="24"><span>Maps listing: Boise, ID</span></button>
 					<button class="skin_colour round_all clearfix"><img src="images/icons/small/white/Globe%202.png" height="24"><span>Maps listing: Boise, ID</span></button>
 					<button class="skin_colour round_all clearfix"><img src="images/icons/small/white/Globe%202.png" height="24"><span>Maps listing: Boise, ID</span></button>
 					<button class="skin_colour round_all clearfix"><img src="images/icons/small/white/Globe%202.png" height="24"><span>Maps listing: Boise, ID</span></button>
