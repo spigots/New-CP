@@ -4,7 +4,7 @@
 			<?php include 'includes/sidebar.php'?>
 			<div class="main_container container_16 clearfix">
 				<?php include 'includes/navigation.php'?>
-				<div class="box grid_6">
+				<div class="box grid_5">
 					<div class="block">
 						<ul class="full_width">
 							<li><span>Signed up:</span> 3/28/2008</li>
@@ -14,18 +14,18 @@
 						</ul>
 					</div>
 				</div>	
-				<div class="flat_area grid_10">
+				<div class="flat_area grid_11">
 					<h2>Gustafason Roofing</h2>
 					<div class="grid_5" style="padding-right: 10px;">
 					<button class="orange skin_colour round_all"><img src="images/icons/small/white/Pacman.png" height="24"><span>Extended Marketing</span></button>
-					<button class="skin_colour round_all"><img src="images/icons/small/white/Globe%202.png" height="24"><span>Maps listing: Boise, ID</span></button>
-					<button class="skin_colour round_all"><img src="images/icons/small/white/Globe%202.png" height="24"><span>Maps listing: Boise, ID</span></button>
-					<button class="skin_colour round_all"><img src="images/icons/small/white/Globe%202.png" height="24"><span>Maps listing: Boise, ID</span></button>
+					<button class="skin_colour round_all"><img src="images/icons/small/white/Globe%202.png" height="24"><span>Maps: Boise, ID</span></button>
+					<button class="skin_colour round_all"><img src="images/icons/small/white/Globe%202.png" height="24"><span>Maps: Boise, ID</span></button>
+					<button class="skin_colour round_all"><img src="images/icons/small/white/Globe%202.png" height="24"><span>Maps: Boise, ID</span></button>
 					</div>
-					<div class="grid_5">
-					<button class="skin_colour round_all"><img src="images/icons/small/white/Globe%202.png" height="24"><span>Maps listing: Boise, ID</span></button>
-					<button class="skin_colour round_all"><img src="images/icons/small/white/Globe%202.png" height="24"><span>Maps listing: Boise, ID</span></button>
-					<button class="skin_colour round_all"><img src="images/icons/small/white/Globe%202.png" height="24"><span>Maps listing: Boise, ID</span></button>
+					<div class="grid_5" style="margin-left: 10px;">
+					<button class="skin_colour round_all"><img src="images/icons/small/white/Globe%202.png" height="24"><span>Maps: Boise, ID</span></button>
+					<button class="skin_colour round_all"><img src="images/icons/small/white/Globe%202.png" height="24"><span>Maps: Boise, ID</span></button>
+					<button class="skin_colour round_all"><img src="images/icons/small/white/Globe%202.png" height="24"><span>Maps: Boise, ID</span></button>
 					<button class="red skin_colour round_all"><img src="images/icons/small/white/Firefox.png" height="24"><span>Website: gustafason.com</span></button>
 					</div>
 				</div>				
