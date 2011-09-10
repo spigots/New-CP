@@ -37,8 +37,8 @@
 				
 				<h2>Notes</h2>
 									
-				<div class="clearfix indent">
-				<div class="flat_area grid_2" style="text-align: center; margin-top: 15px;">
+				<div class="clearfix indent" style="margin-bottom: 10px;">
+				<div class="flat_area grid_2" style="text-align: center;">
 					<img src="images/profile.jpg" width="55" />
 					<strong>Kirk Medsker</strong>
 				</div>
