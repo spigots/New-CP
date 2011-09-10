@@ -37,13 +37,13 @@
 				
 				<h2>Notes</h2>
 									
-				<div class="clearfix">
+				<div class="clearfix indent">
 				<div class="flat_area grid_2">
 					<img src="images/profile.jpg" width="55" alt="Profile Pic" />
 					<strong><a class="text_shadow" href="#">John Smith</a></strong>
 				</div>
 					<div class="flat_area grid_14">		
-						<p>WHAT O</p>
+						<p><strong>WHAT O</strong></p>
 					</div>
 				</div>
 				
