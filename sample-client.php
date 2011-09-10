@@ -44,6 +44,7 @@
 				</div>
 				<div class="clearfix indent container_16">		
 					<strong>A NOET</strong>
+				</div>
 				</div>								
 			</div>
 			<div class="main_container container_16 clearfix">
