@@ -38,9 +38,9 @@
 				<h2>Notes</h2>
 									
 				<div class="clearfix indent">
-				<div class="flat_area grid_2">
-					<img src="images/profile.jpg" width="55" alt="Profile Pic" />
-					<strong><span class="text_shadow">John Smith</span></strong>
+				<div class="flat_area grid_2" style="text-align: center; margin-top: 15px;">
+					<img src="images/profile.jpg" width="55" />
+					<strong>Kirk Medsker</strong>
 				</div>
 					<div class="flat_area grid_14">		
 						<p><strong>WHAT O</strong></p>
