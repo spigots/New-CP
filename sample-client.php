@@ -6,8 +6,15 @@
 				<?php include 'includes/navigation.php'?>
 				<div class="box grid_6">
 					<div class="block">
-						<h1>Primary Heading</h1>
-						<p>Lorem Ipsum is simply dummy text of the printing industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p> 		
+						<ul class="full_width">
+							<li><span>341</span>Items</li>
+							<li><span>892</span>Posts</li>
+							<li><span>12,062</span>Comments</li>
+							<li><span>90,568</span>Members</li>
+							<li><span>103,451</span>Unique Visitors</li>
+							<li><span>983,876</span>Hits</li>
+							<li><span>7,543,948</span>Monthly Hits</li>
+						</ul>
 					</div>
 				</div>	
 				<div class="flat_area grid_10">
