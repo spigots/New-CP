@@ -7,13 +7,10 @@
 				<div class="box grid_6">
 					<div class="block">
 						<ul class="full_width">
-							<li><span>341</span>Items</li>
-							<li><span>892</span>Posts</li>
-							<li><span>12,062</span>Comments</li>
-							<li><span>90,568</span>Members</li>
-							<li><span>103,451</span>Unique Visitors</li>
-							<li><span>983,876</span>Hits</li>
-							<li><span>7,543,948</span>Monthly Hits</li>
+							<li><span>Client since</span> March 20, 2008</li>
+							<li><span>Monthly price</span>$109</li>
+							<li><span>Marketing level</span>Intermediate</li>
+							<li><span>Known issues</span>10</li>
 						</ul>
 					</div>
 				</div>	
