@@ -45,7 +45,7 @@
 		<script type="text/javascript" src="js/DataTables/jquery.dataTables.js"></script>
 		<script type="text/javascript" src="js/jqueryFileTree/jqueryFileTree.js"></script>
 		<script type="text/javascript" src="js/slidernav/slidernav.js"></script>
-
+		<script type="text/javascript" src="js/smoothscroll/smoothscroll.js"></script>
 		<!-- This file configures the various jQuery plugins for Adminica. Contains links to help pages for each plugin. -->
 		<script type="text/javascript" src="js/adminica/adminica_ui.js"></script>
 
