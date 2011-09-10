@@ -33,11 +33,11 @@
 			</div>
 			
 			<div class="main_container container_16 clearfix">
-				<div class="flat_area grid_16" style="clear:left;">
+				<div class="flat_area grid_16" style="clear:left; margin-bottom: 10px;">
 				
 				<h2>Notes</h2>
 									
-				<div class="clearfix indent" style="margin-bottom: 10px;">
+				<div class="clearfix indent">
 				<div class="flat_area grid_2" style="text-align: center;">
 					<img src="images/profile.jpg" width="55" />
 					<strong>Kirk Medsker</strong>
