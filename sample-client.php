@@ -37,7 +37,7 @@
 				
 				<h2>Notes</h2>					
 				<div class="clearfix indent">		
-					<strong>A NOET</strong>
+					<p>WHAT O</p>
 				</div>
 				<div class="clearfix indent">		
 					<strong>A NOET</strong>
