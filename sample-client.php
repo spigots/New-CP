@@ -36,22 +36,15 @@
 				<div class="flat_area grid_16" style="clear:left;">
 				
 				<h2>Notes</h2>					
-						
-					<form id="filter" class="clearfix indent gallery_sorter">
-				  		<fieldset class="grid_7 alpha">
-						    <H3>Features:</h3>
-						    <label><input type="radio" name="type" value="all" checked="checked">All</label>
-						    <label><input type="radio" name="type" value="new">New</label>
-						    <label><input type="radio" name="type" value="cool">Cool</label>
-						</fieldset>
-						<fieldset class="grid_7 omega">
-						    <h3>Sort by</h3>
-						    <label><input type="radio" name="sort" value="name" checked="checked">Name</label>
-						    <label><input type="radio" name="sort" value="update">Update</label>    
-						</fieldset>
-					</form>
-					THANGS
+				<div class="clearfix indent container_16">		
+					<strong>A NOET</strong>
 				</div>
+				<div class="clearfix indent container_16">		
+					<strong>A NOET</strong>
+				</div>
+				<div class="clearfix indent container_16">		
+					<strong>A NOET</strong>
+				</div>								
 			</div>
 			<div class="main_container container_16 clearfix">
 				<div class="flat_area grid_16">
