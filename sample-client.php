@@ -38,10 +38,10 @@
 				<h2>Notes</h2>
 									
 				<div class="clearfix">
-				<div class="flat_area grid_6">
+				<div class="flat_area grid_2">
 					<img src="images/profile.jpg" width="55" alt="Profile Pic" />
 					<h3><a class="text_shadow" href="#">John Smith</a></h3>				</div>
-					<div class="flat_area grid_10">		
+					<div class="flat_area grid_14">		
 						<p>WHAT O</p>
 					</div>
 				</div>
