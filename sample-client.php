@@ -40,7 +40,7 @@
 				<div class="clearfix indent">
 				<div class="flat_area grid_2">
 					<img src="images/profile.jpg" width="55" alt="Profile Pic" />
-					<strong><a class="text_shadow" href="#">John Smith</a></strong>
+					<strong><span class="text_shadow">John Smith</span></strong>
 				</div>
 					<div class="flat_area grid_14">		
 						<p><strong>WHAT O</strong></p>
