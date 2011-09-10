@@ -9,8 +9,8 @@
 						<ul class="full_width">
 							<li><span>Client since</span> March 20, 2008</li>
 							<li><span>Monthly price</span>$109</li>
-							<li><span>Marketing level</span>Intermediate</li>
-							<li><span>Known issues</span>10</li>
+							<li><span>Marketing</span>Intermediate</li>
+							<li><span>Trouble tickets</span>10</li>
 						</ul>
 					</div>
 				</div>	
