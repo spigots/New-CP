@@ -35,8 +35,9 @@
 			<div class="main_container container_16 clearfix">
 				<div class="flat_area grid_16" style="clear:left;">
 				
-				<h2>Notes</h2>					
-				<div class="clearfix indent">
+				<h2>Notes</h2>
+									
+				<div class="clearfix">
 				<div class="flat_area grid_6">
 					<img src="images/profile.jpg" width="55" alt="Profile Pic" />
 					<h3><a class="text_shadow" href="#">John Smith</a></h3>				</div>
@@ -44,6 +45,7 @@
 						<p>WHAT O</p>
 					</div>
 				</div>
+				
 				<div class="clearfix indent">		
 					<strong>A NOET</strong>
 				</div>
