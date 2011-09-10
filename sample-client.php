@@ -7,10 +7,10 @@
 				<div class="box grid_10">
 					<div class="block">
 						<ul class="full_width">
-							<li><span>Client from:</span> 3/28/2008</li>
-							<li><span>Monthly price:</span> $109</li>
+							<li><span>Signed up:</span> 3/28/2008</li>
+							<li><span>Monthly:</span> $109</li>
 							<li><span>Marketing:</span> Advanced</li>
-							<li><span>Known issues:</span> 10</li>
+							<li><span>Notes:</span> 10</li>
 						</ul>
 					</div>
 				</div>	
