@@ -16,11 +16,7 @@
 				</div>	
 				<div class="flat_area grid_10">
 					<h2>Gustafason Roofing</h2>
-					<p><strong>Adminica</strong> is a <strong>cleanly coded</strong>, <strong>beautifully styled</strong>, easily <strong>customisable</strong>, <strong>cross-browser</strong> compatible <strong>Web Application Interface</strong>.</p>
-
-					<p><strong>Adminica</strong> is packed full of features, allowing you<strong> unlimited combinations</strong> of layouts, controls and styles to ensure you have a <strong>trully unique app</strong>. </p>
-
-					<p><strong>Adminica</strong>  can <strong>scale itself automatically</strong> to fit whatever screen resolution the user has. The interface<strong> works perfectly all the way down to iPhone size</strong></p>
+					<p><button class="skin_colour round_all"><img src="images/icons/small/white/Globe%202.png" width="24" height="24" alt="Globe 2"><span>Maps listing: Boise, ID</span></button></p>
 				</div>				
 			</div>
 			
